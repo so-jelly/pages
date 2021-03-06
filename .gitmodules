@@ -1,0 +1,3 @@
+[submodule "hack-the-box"]
+	path = hack-the-box
+	url = https://github.com/so-jelly/hack-the-box.git
