@@ -2,5 +2,5 @@
 
 ## Hack The Box
 
-[Reference and writeups](/pages/hack-the-box)
-[source](github.com/so-jelly/hack-the-box)
+[Reference and writeups](hack-the-box)
+[source](https://github.com/so-jelly/hack-the-box)
